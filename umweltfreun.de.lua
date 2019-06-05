@@ -12,7 +12,6 @@ aaaa(_a, "2a02:c207:0000:2928:0000:0000:0000:0002")
 cname("www", _a)
 cname("widgettest", "m1331.contabo.net")
 cname("piwik", "m1331.contabo.net")
-cname("piwik12", "m1331_1.contabo.net")
 
 -- CAA records
 caa("", "letsencrypt.org", "issue")
